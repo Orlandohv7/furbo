@@ -1,6 +1,6 @@
-drop database if exists Furbo_LaLiga;
-create database Furbo_LaLiga;
-use Furbo_LaLiga;
+drop database if exists FURBO;
+create database FURBO;
+use FURBO;
 
 create table jugadores (
 Nombre varchar(20),
